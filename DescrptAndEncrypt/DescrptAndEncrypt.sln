@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DescrptAndEncrypt", "DescrptAndEncrypt\DescrptAndEncrypt.csproj", "{65627173-93B3-4F57-BB89-0B8003C3EEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65627173-93B3-4F57-BB89-0B8003C3EEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65627173-93B3-4F57-BB89-0B8003C3EEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65627173-93B3-4F57-BB89-0B8003C3EEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65627173-93B3-4F57-BB89-0B8003C3EEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99E10C1F-8F81-40F6-9BF8-66A0349FF55F}
+	EndGlobalSection
+EndGlobal
