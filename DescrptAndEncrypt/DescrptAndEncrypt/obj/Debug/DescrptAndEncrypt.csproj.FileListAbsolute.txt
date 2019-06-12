@@ -1,0 +1,10 @@
+D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\bin\Debug\DescrptAndEncrypt.exe.config
+D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\bin\Debug\DescrptAndEncrypt.exe
+D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\bin\Debug\DescrptAndEncrypt.pdb
+D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.csprojAssemblyReference.cache
+D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.Form1.resources
+D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.Properties.Resources.resources
+D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.csproj.GenerateResource.cache
+D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.csproj.CoreCompileInputs.cache
+D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.exe
+D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.pdb

@@ -16,5 +16,10 @@ namespace DescrptAndEncrypt
         {
             InitializeComponent();
         }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("hello world");
+        }
     }
 }
