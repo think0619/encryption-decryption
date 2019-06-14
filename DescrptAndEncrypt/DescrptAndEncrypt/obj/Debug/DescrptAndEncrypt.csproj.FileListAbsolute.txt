@@ -8,3 +8,5 @@ D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\Desc
 D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.csproj.CoreCompileInputs.cache
 D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.exe
 D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.pdb
+D:\Work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\bin\Debug\LoadingIndicator.WinForms.dll
+D:\Work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.csproj.CopyComplete
