@@ -2,7 +2,6 @@ D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\bin\Debug\Desc
 D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\bin\Debug\DescrptAndEncrypt.exe
 D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\bin\Debug\DescrptAndEncrypt.pdb
 D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.csprojAssemblyReference.cache
-D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.Form1.resources
 D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.Properties.Resources.resources
 D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.csproj.GenerateResource.cache
 D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.csproj.CoreCompileInputs.cache
@@ -10,3 +9,4 @@ D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\Desc
 D:\work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.pdb
 D:\Work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\bin\Debug\LoadingIndicator.WinForms.dll
 D:\Work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.csproj.CopyComplete
+D:\Work\encryption-decryption\DescrptAndEncrypt\DescrptAndEncrypt\obj\Debug\DescrptAndEncrypt.MainForm.resources
